@@ -1,1 +1,1 @@
-# So_long
+The "So Long" 🐬 project 🌊 involves creating a 🎮 2D game in C where a character 🧍‍♂️ collects items 🍄 and reaches the exit 🚪. Using arrow keys or WASD, players navigate through the map designed with walls 🧱, items 🎁, and the exit. Rendering graphics with MiniLibX and managing windows smoothly are essential. In the bonus part, we add an extra element: the enemy 🚶‍♂️. If touched, the game ends. Additionally, we include sprite animations 🎨 and display the movement count directly on the screen 📊.
